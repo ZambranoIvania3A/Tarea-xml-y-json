@@ -1,0 +1,39 @@
+<tienda>
+<nombre>Tienda Ejemplo</nombre>
+<productos>
+    <producto>
+    <nombre>Ordenador Portátil</nombre>
+    <clientes>
+        <cliente>
+        <nombre>Pedro</nombre>
+        <apellido>Gómez</apellido>
+        <edad>34</edad>
+        <fecha_compra>2024-01-15</fecha_compra>
+        </cliente>
+        <cliente>
+        <nombre>Laura</nombre>
+        <apellido>Fernández</apellido>
+        <edad>28</edad>
+        <fecha_compra>2024-02-10</fecha_compra>
+        </cliente>
+    </clientes>
+    </producto>
+    <producto>
+    <nombre>Teléfono Móvil</nombre>
+    <clientes>
+        <cliente>
+        <nombre>Javier</nombre>
+        <apellido>Martín</apellido>
+        <edad>40</edad>
+        <fecha_compra>2024-03-05</fecha_compra>
+        </cliente>
+        <cliente>
+        <nombre>Sofía</nombre>
+        <apellido>García</apellido>
+        <edad>22</edad>
+        <fecha_compra>2024-04-01</fecha_compra>
+        </cliente>
+    <cliente><nombre>Carlos</nombre><apellido>Lopez</apellido><edad>30</edad><fecha_compra>2024-06-13</fecha_compra></cliente></clientes>
+    </producto>
+</productos>
+</tienda>

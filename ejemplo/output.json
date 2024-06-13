@@ -1,0 +1,47 @@
+{
+  "tienda": {
+    "nombre": "Tienda Ejemplo",
+    "productos": [
+      {
+        "nombre": "Ordenador Portátil",
+        "clientes": [
+          {
+            "nombre": "Ivania",
+            "apellido": "Zambrano",
+            "edad": 34,
+            "fecha_compra": "2024-01-15"
+          },
+          {
+            "nombre": "Laura",
+            "apellido": "Fernández",
+            "edad": 28,
+            "fecha_compra": "2024-02-10"
+          }
+        ]
+      },
+      {
+        "nombre": "Teléfono Móvil",
+        "clientes": [
+          {
+            "nombre": "Javier",
+            "apellido": "Martín",
+            "edad": 40,
+            "fecha_compra": "2024-03-05"
+          },
+          {
+            "nombre": "Sofía",
+            "apellido": "García",
+            "edad": 22,
+            "fecha_compra": "2024-04-01"
+          },
+          {
+            "nombre": "Carlos",
+            "apellido": "Lopez",
+            "edad": 30,
+            "fecha_compra": "2024-06-13"
+          }
+        ]
+      }
+    ]
+  }
+}
